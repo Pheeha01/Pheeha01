@@ -9,7 +9,7 @@ Machine Learning and AI
 Business Technology
 IT Audit
 
-3. Tech Stack
+2. Tech Stack
    
 Languages: 
 
