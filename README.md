@@ -28,8 +28,6 @@ Git · GitHub · VS Code
 
 I am building my data analysis skills through personal projects using Python, Pandas, Matplotlib, Scikit-learn and Power BI.
 
-I am also exploring deep learning and audio classification through MechanIQ, using audio data to identify potential vehicle faults.
-
 4. Projects
 
 TradeGrid
