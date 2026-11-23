@@ -5,10 +5,15 @@ Business Information Technology student with a background in Economics and Econo
 ### 1. INTERESTS
    
 Data Analysis
+
 Economics and Econometrics
+
 Machine Learning and AI
+
 Business Technology
+
 Automation engineer
+
 IT Audit
 
 ### 2. PROJECTS
@@ -25,7 +30,9 @@ A desktop application and website designed to make basic legal assistance and do
 ### 3. EDUCATION
    
 Business Information Technology
+
 Economics and Econometrics
+
 PGCE in Accounting and Economics
 
 ### 4. SIDE PROJECTS AND LEARNING
