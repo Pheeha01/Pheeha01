@@ -2,49 +2,37 @@ Hi, I'm Mabotja
 
 Business Information Technology student with a background in Economics and Econometrics, interested in data analysis, machine learning and practical technology solutions.
 
-1. Interests
+### 1. INTERESTS
    
 Data Analysis
 Economics and Econometrics
 Machine Learning and AI
 Business Technology
+Automation engineer
 IT Audit
 
-2. Tech Stack
-   
-Languages: 
+### 2. PROJECTS
 
-C# · Python · JavaScript · SQL · HTML · CSS
+### MechanIQ
+An AI-powered vehicle assistance platform designed to help users identify potential vehicle problems. The project includes AI-based vehicle sound detection, dashboard warning-light recognition and read-only OBD diagnostics. I contributed to the backend development, including the sound detection API and dashboard warning-light scanning functionality.
 
-Frameworks and Libraries:
+### TradeGrid
+A B2B platform that connects businesses, allowing them to schedule meetings, sell products and build business relationships. I was responsible for the backend development.
 
-React · React Native · Node.js · Express · TensorFlow
+### LawBuddy
+A desktop application and website designed to make basic legal assistance and document generation more accessible. The platform provides users with legal information, document templates and tools to simplify the preparation of basic legal documents.
 
-Databases
-
-PostgreSQL · SQLite · Firebase
-
-3. Projects
-
-TradeGrid:  
-A B2B platform that connects businesses, allowing them to create meetings, sell products and build business relationships. I was responsible for the backend development.
-
-LawBuddy:  
-A desktop application designed to make basic legal assistance and document generation more accessible.
-
-4. Education
+### 3. EDUCATION
    
 Business Information Technology
 Economics and Econometrics
 PGCE in Accounting and Economics
 
-5. Career Direction
-   
-Aspiring Data Analyst with a long-term interest in Machine Learning and Data Science.
+### 4. SIDE PROJECTS AND LEARNING
 
-6. Side Projects and Learning
-   
-I am building my data analysis skills through using Python, Pandas, Matplotlib, Scikit-learn and Power BI.
+I am strengthening my skills in data analysis, statistical modelling and software development using Python, Pandas, NumPy, SQL, Matplotlib and Scikit-learn, while expanding my knowledge of Power BI.
+
+My current focus is applied machine learning, predictive analytics and intelligent automation, with an emphasis on building practical solutions and turning data into useful insights.
 
 
 <!--
