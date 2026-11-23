@@ -1,8 +1,8 @@
-Hi, I'm Mabotja
+# Hi, I'm Mabotja
 
 Business Information Technology student with a background in Economics and Econometrics, interested in data analysis, machine learning and practical technology solutions.
 
-### 1. INTERESTS
+## 1. INTERESTS
    
 Data Analysis <br>
 Economics and Econometrics <br>
@@ -11,7 +11,7 @@ Business Technology <br>
 Automation engineer <br>
 IT Audit <br>
 
-### 2. PROJECTS
+## 2. PROJECTS
 
 ### MechanIQ
 An AI-powered vehicle assistance platform designed to help users identify potential vehicle problems. The project includes AI-based vehicle sound detection, dashboard warning-light recognition and read-only OBD diagnostics. I contributed to the backend development, including the sound detection API and dashboard warning-light scanning functionality.
@@ -22,13 +22,13 @@ A B2B platform that connects businesses, allowing them to schedule meetings, sel
 ### LawBuddy
 A desktop application and website designed to make basic legal assistance and document generation more accessible. The platform provides users with legal information, document templates and tools to simplify the preparation of basic legal documents.
 
-### 3. EDUCATION
+## 3. EDUCATION
    
 Business Information Technology <br>
 Economics and Econometrics <br>
 PGCE in Accounting and Economics <br>
 
-### 4. SIDE PROJECTS AND LEARNING
+## 4. SIDE PROJECTS AND LEARNING
 
 I am strengthening my skills in data analysis, statistical modelling and software development using Python, Pandas, NumPy, SQL, Matplotlib and Scikit-learn, while expanding my knowledge of Power BI.
 
