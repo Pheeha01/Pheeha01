@@ -4,8 +4,7 @@ Business Information Technology student with a background in Economics and Econo
 
 ### 1. INTERESTS
    
-Data Analysis
-
+Data Analysis <br>
 Economics and Econometrics
 
 Machine Learning and AI
