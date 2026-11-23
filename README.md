@@ -19,7 +19,7 @@ An AI-powered vehicle assistance platform designed to help users identify potent
 ### TradeGrid
 A B2B platform that connects businesses, allowing them to schedule meetings, sell products and build business relationships. I was responsible for the backend development.
 
-### LawBuddy
+### LawBuddy/LawCompass
 A desktop application and website designed to make basic legal assistance and document generation more accessible. The platform provides users with legal information, document templates and tools to simplify the preparation of basic legal documents.
 
 ## 3. EDUCATION
